@@ -58,9 +58,9 @@ const About = () => {
                 <div>
                     <h3 className="text-2xl font-bold text-transparent bg-clip-text 
                 bg-gradient-to-r from-green-600 to-blue-950">
-                        1+
+                        1+ 
                     </h3>
-                    <p>Handson Experience</p>
+                    <p>Year Hands-on Experience</p>
                 </div>
                 <div>
                     <h3 className="text-2xl font-bold text-transparent bg-clip-text 
