@@ -58,7 +58,7 @@ const About = () => {
                 <div>
                     <h3 className="text-2xl font-bold text-transparent bg-clip-text 
                 bg-gradient-to-r from-green-600 to-blue-950">
-                        1+ 
+                        2+ 
                     </h3>
                     <p>Year Hands-on Experience</p>
                 </div>
@@ -72,9 +72,9 @@ const About = () => {
                 <div>
                     <h3 className="text-2xl font-bold text-transparent bg-clip-text 
                 bg-gradient-to-r from-green-600 to-blue-950">
-                        3+ 
+                        1+ 
                     </h3>
-                    <p> months Work Experience</p>
+                    <p> year Work Experience</p>
                 </div>
             </div>
           </div>
