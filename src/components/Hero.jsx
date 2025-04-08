@@ -1,10 +1,11 @@
 import React from 'react'
 import HeroImage from '../assets/portfolio.jpeg'
+import iccon from '../assets/icon.jpg'
 
 const Hero = () => {
   return (
     <div className='bg-black text-white text-center pt-16 pb-48'>
-        <img src={HeroImage} alt="" 
+        <img src={iccon} alt="" 
         className='mx-auto mb-8 w-48 h-48 rounded-full object-cover transform 
         transition-transform duration-300 hover:scale-105'/>
         <h1 className='text-4xl font-bold'>
